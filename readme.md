@@ -10,3 +10,29 @@
 
 * Code : Folk from [자바의 정석3](https://github.com/castello/javajungsuk3)
 * 온라인 강의 : [자바의 정석 Youtube](https://www.youtube.com/watch?v=xRkCbqR0v84&list=PLW2UjW795-f5LNeTO6VQB1ZIeZJ_kwEG10)
+
+## JVM 설치
+
+JDK SE (Standard Edition)
+
+[Java SE Development Kit 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
+
+```
+# windows cmd
+path
+javac -version
+```
+
+`.java` → java compiler(`javac`) → `.class`
+
+http://javachobo.com/
+
+## JAVA 기초
+
+Primitive type 8개
+* boolean
+* char
+* 정수(int long)
+* 정수 byte(이진데이터) short(C언어와 호환)
+* 실수(float double)
