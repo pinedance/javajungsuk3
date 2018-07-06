@@ -25,7 +25,7 @@ path
 javac -version
 ```
 
-`.java` → java compiler(`javac`) → `.class`
+`.java` → java compiler(`javac`) → `.class` → java runtime environment(`java`)  → 실행
 
 http://javachobo.com/
 
