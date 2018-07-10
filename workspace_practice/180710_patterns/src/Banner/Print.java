@@ -1,0 +1,7 @@
+package Banner;
+
+public interface Print {
+	public abstract void printWeak();
+	public abstract void printString();
+
+}
