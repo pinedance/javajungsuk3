@@ -11,6 +11,7 @@
 * Code : Folk from [자바의 정석3](https://github.com/castello/javajungsuk3)
 * 온라인 강의 : [자바의 정석 Youtube](https://www.youtube.com/watch?v=xRkCbqR0v84&list=PLW2UjW795-f5LNeTO6VQB1ZIeZJ_kwEG10)
 * [점프 투 자바](https://wikidocs.net/book/31)
+* [APCS Java Subset Specification](https://www2.cs.duke.edu/csed/ap/subset/doc/overview-summary.html)
 
 ## JVM 설치
 
