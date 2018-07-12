@@ -12,7 +12,10 @@
 * 온라인 강의 : [자바의 정석 Youtube](https://www.youtube.com/watch?v=xRkCbqR0v84&list=PLW2UjW795-f5LNeTO6VQB1ZIeZJ_kwEG10)
 * [점프 투 자바](https://wikidocs.net/book/31)
 * [APCS Java Subset Specification](https://www2.cs.duke.edu/csed/ap/subset/doc/overview-summary.html)
-
+* [명품 JAVA Programming](https://www.booksr.co.kr/html/book/book.asp?seq=697068)
+   * [PPT](http://nlp.chonbuk.ac.kr/PL/)
+* [김영민 강의 자료](https://github.com/dknife/OOP2017Java)
+   
 ## JVM 설치
 
 JDK SE (Standard Edition)
